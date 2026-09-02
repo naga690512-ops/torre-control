@@ -77,13 +77,13 @@ APPS = {
             "desc": "CSV del portal → Excel + etiquetas QR/ZPL",
             "url": "https://wm-plan-de-embarque-zauaophkkndxlmbhlthjxc.streamlit.app",
         },
+    ],
+    "C&A": [
         {
             "name": "Separador de Etiquetas LPN",
             "desc": "PDF 2 por página → hojas 4×6 individuales",
             "url": "https://cprtnanexon2fnucpttzx3.streamlit.app",
         },
-    ],
-    "C&A": [
         {
             "name": "Packing List",
             "desc": "OC en PDF → Excel de packing list nacional",
