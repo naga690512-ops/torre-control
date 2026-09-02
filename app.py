@@ -48,14 +48,17 @@ st.markdown(
         margin-top: 22px;
         margin-bottom: 6px;
     }
-    div[data-testid="stLinkButton"] a {
+    div[data-testid="stLinkButton"] a,
+    div[data-testid="stLinkButton"] a * {
         background-color: #F2B233 !important;
         color: #14171A !important;
         border: none !important;
         font-weight: 600 !important;
     }
-    div[data-testid="stLinkButton"] a:hover {
+    div[data-testid="stLinkButton"] a:hover,
+    div[data-testid="stLinkButton"] a:hover * {
         background-color: #FFC94D !important;
+        color: #14171A !important;
     }
     .stButton button {
         background-color: #2A2F35 !important;
