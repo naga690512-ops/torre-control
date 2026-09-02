@@ -122,8 +122,8 @@ APPS = {
     "Coppel": [
         {
             "name": "Etiqueta Coppel",
-            "desc": "En diseño — se agrega en cuanto esté lista",
-            "url": "",
+            "desc": "Excel del portal → etiquetas de caja PDF/ZPL (10×8cm)",
+            "url": "https://coppel-etiqueta.streamlit.app",
         },
     ],
 }
